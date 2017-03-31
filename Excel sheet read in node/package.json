@@ -1,0 +1,19 @@
+{
+    "name": "Excel",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "xlsx": "^0.9.7"
+    },
+    "devDependencies": {
+        "xlsx": "^0.9.7",
+        "libxmljs": "^0.18.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
